@@ -1,0 +1,3 @@
+rootProject.name = 'AffinitiHome'
+
+include ':app'
